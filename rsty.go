@@ -1,8 +1,7 @@
-// rsty - just a http.Handler middleware for handling RESTful 
-// based resources/services/endpoints .
+// rsty - just a http.Handler middleware for handling RESTful resources .
 //
 // rsty released under MIT License,
-// rsty has been developed by Mohammed Al Ashaal <https://www.alash3al.xyz>
+// Developed by Mohammed Al Ashaal <https://www.alash3al.xyz>
 package rsty
 
 import "encoding/json"
